@@ -6,6 +6,12 @@ header { background-color: #9BC1C2;
        text-align: center;
 }
 h1 { line-height: 200%; 
+       background-image: "lilyheader.jpg";
+       background-repeat: no-repeat;
+       height: 100px; width: 650px; font-size: 3em;
+       padding-left: 150px; padding-top: 30px;
+       border: 1px solid #000033;
+       border-radius: 15px;
 }
 nav { text-align: center;
      font-weight: bold; 
@@ -21,5 +27,9 @@ footer { background-color: #9BC1C2;
 }
 #wrapper { width: 80%;
            margin-left: auto;
-		   margin-right: auto;}
+		   margin-right: auto;
+              background-color: #F5F5F5;
+       min-width: 1000px;
+max-width: 1280px;}
+       
 	   
